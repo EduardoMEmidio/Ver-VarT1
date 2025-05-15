@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: emidio.trabalho.AppTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in emidio.trabalho.AppTest
+testFalhaPropositalNoCalculoExame(emidio.trabalho.AppTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: Values should be different. Actual: Aprovado após exame
+	at emidio.trabalho.AppTest.testFalhaPropositalNoCalculoExame(AppTest.java:50)
+
